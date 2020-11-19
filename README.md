@@ -8,3 +8,5 @@ Dentro del respositorio se encuentra se encontrará:
 - Datasets necesarios para la correcta ejecución de los mismos
 - Poster
 - Informe 
+
+Importante: Debe ejecutarse primero el notebook clusterai_federico_girola_EDA, ya que exporta un archivo xlsx que se usará en los modelos de ML
